@@ -32,6 +32,8 @@ Course done
 
 Day 4 - 2020/01/23
 
+Watch the Movie "Moneyball" for the Data Science
+
 Setup Github Repository
 
 Start Learning Python

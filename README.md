@@ -29,8 +29,9 @@ Course done
 
 Day 4 - 2020/01/23
 
+Setup Github Repository
 Start Learning Python
 Started [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
 
 Completed:
-Section 
+Section 1-3.5

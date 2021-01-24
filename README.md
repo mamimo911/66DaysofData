@@ -41,4 +41,11 @@ Start Learning Python
 Started [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
 
 Completed:
-Section 1-3.5
+Section 1-2
+
+Day 5 - 2020/01/24
+
+Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
+
+Completed:
+Section 3-3.22

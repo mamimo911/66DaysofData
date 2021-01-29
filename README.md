@@ -56,3 +56,10 @@ Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
 
 Completed:
 Section 3.22 - 4
+
+Day 7 - 2020/01/28
+
+Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
+
+Completed:
+Section 5

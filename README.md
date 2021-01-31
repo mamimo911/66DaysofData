@@ -1,65 +1,91 @@
-# 66DaysofData
-66 Days of Data Science
+#66DaysofData
 
+[Day 1 - 2020/01/20]
 
-Day 1 - 2020/01/20
+	Refresh Statistics Knowledge
 
-Refresh Statistics Knowledge
+		Started [Statistics for Data Science and Business Analysis Lecture] on Udemy
 
-Started [Statistics for Data Science and Business Analysis Lecture] on Udemy
+			Completed:
+		
+				Section 1-7
 
-Completed:
-Section 1-7
+[Day 2 - 2020/01/21]
 
-Day 2 - 2020/01/21
+	Refresh Statistics Knowledge
 
-Refresh Statistics Knowledge
+		Continued [Statistics for Data Science and Business Analysis Lecture] on Udemy
 
-Continued [Statistics for Data Science and Business Analysis Lecture] on Udemy
+			Completed:
+		
+				Section 8-12
 
-Completed:
-Section 8-12
+[Day 3 - 2020/01/22]
 
-Day 3 - 2020/01/22
+	Refresh Statistics Knowledge
 
-Refresh Statistics Knowledge
+		Continued [Statistics for Data Science and Business Analysis Lecture] on Udemy
 
-Continued [Statistics for Data Science and Business Analysis Lecture] on Udemy
+			Completed:
+				
+				Section 13-18
+				
+				[Course done]
 
-Completed:
-Section 13-18
-Course done
+[Day 4 - 2020/01/23]
 
-Day 4 - 2020/01/23
+	Watch the Movie "Moneyball" for the Data Science
 
-Watch the Movie "Moneyball" for the Data Science
+	Setup Github Repository
 
-Setup Github Repository
+	Start Learning Python
 
-Start Learning Python
+		Started [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
 
-Started [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
+			Completed:
 
-Completed:
-Section 1-2
+				Section 1-2
 
-Day 5 - 2020/01/24
+					Course Overview and Python Setup
 
-Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
+[Day 5 - 2020/01/24]
 
-Completed:
-Section 3-3.22
+	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
 
-Day 6 - 2020/01/27
+		Completed:
 
-Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
+			Section 3-3.22
 
-Completed:
-Section 3.22 - 4
+				Python Object and Data Structure Basic
 
-Day 7 - 2020/01/28
+[Day 6 - 2020/01/27]
 
-Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
+	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
 
-Completed:
-Section 5
+		Completed:
+
+			Section 3.22 - 4
+
+				Python Object and Data Structure Basic
+
+				Python Comparison Operator
+
+[Day 7 - 2020/01/28]
+
+	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
+
+		Completed:
+
+			Section 5
+
+				Python Statements
+
+[Day 8 - 2020/01/31]
+
+	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
+
+		Completed:
+
+			Section 6 - 44-50
+
+				Methods and Functions

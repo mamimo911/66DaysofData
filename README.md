@@ -89,3 +89,12 @@
 			Section 6 - 44-50
 
 				Methods and Functions
+
+[Day 9 - 2020/02/14]
+
+	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
+
+		Completed:
+
+			Revised Section 1 - 6
+

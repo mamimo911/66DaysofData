@@ -1,6 +1,6 @@
 #66DaysofData
 
-[Day 1 - 2020/01/20]
+[Day 1 - 2021/01/20]
 
 	Refresh Statistics Knowledge
 
@@ -10,7 +10,7 @@
 		
 				Section 1-7
 
-[Day 2 - 2020/01/21]
+[Day 2 - 2021/01/21]
 
 	Refresh Statistics Knowledge
 
@@ -20,7 +20,7 @@
 		
 				Section 8-12
 
-[Day 3 - 2020/01/22]
+[Day 3 - 2021/01/22]
 
 	Refresh Statistics Knowledge
 
@@ -32,7 +32,7 @@
 				
 				[Course done]
 
-[Day 4 - 2020/01/23]
+[Day 4 - 2021/01/23]
 
 	Watch the Movie "Moneyball" for the Data Science
 
@@ -48,7 +48,7 @@
 
 					Course Overview and Python Setup
 
-[Day 5 - 2020/01/24]
+[Day 5 - 2021/01/24]
 
 	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
 
@@ -58,7 +58,7 @@
 
 				Python Object and Data Structure Basic
 
-[Day 6 - 2020/01/27]
+[Day 6 - 2021/01/27]
 
 	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
 
@@ -70,7 +70,7 @@
 
 				Python Comparison Operator
 
-[Day 7 - 2020/01/28]
+[Day 7 - 2021/01/28]
 
 	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
 
@@ -80,7 +80,7 @@
 
 				Python Statements
 
-[Day 8 - 2020/01/31]
+[Day 8 - 2021/01/31]
 
 	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
 
@@ -90,11 +90,19 @@
 
 				Methods and Functions
 
-[Day 9 - 2020/02/14]
+[Day 9 - 2021/02/14]
 
 	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
 
 		Completed:
 
-			Revised Section 1 - 6
+			Revised Section 1 - 6.50
+
+[Day 10 - 2021/02/16]
+
+	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
+
+		Completed:
+
+			Section 6 - 51-58
 

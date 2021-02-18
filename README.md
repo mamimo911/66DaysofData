@@ -106,3 +106,10 @@
 
 			Section 6 - 51-58
 
+[Day 11 - 2021/02/18]
+
+	Continued [Complete Python Bootcamp From Zero to Hero in Python] on Udemy
+
+		Completed:
+
+			Section 7 - 59-64
